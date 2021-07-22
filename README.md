@@ -1,1 +1,1 @@
-- [DEMO LINK](https://mykola-shcherbak.github.io/layout_creativeBakery/).
+- [DEMO LINK](https://mykola-shcherbak.github.io/creativeBakery/).
